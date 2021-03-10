@@ -1,4 +1,12 @@
-### Hi there 👋
+High school student living in India.
+
+Currently somewhat busy with school and stuff.
+
+Experienced in C++, specialize in templates.
+Currently learning web dev using React and Electron.
+I also know a bit of Java, C, PHP5, HTML, CSS3, Python, etc.
+
+[![Adityarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaruplaha)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **adityaruplaha/adityaruplaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
