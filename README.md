@@ -1,9 +1,9 @@
-High school student living in India.
+Undergrad student at Indian Statistical Institute, Kolkata.
 
 Currently somewhat busy with school and stuff.
 
-Experienced in C++, specialize in templates.
-Currently learning web dev using React and Electron.
+Experienced in C++, specialize in template metaprogramming.
+Currently learning web dev using React, Angular and Electron.
 I also know a bit of Java, C, PHP5, HTML, CSS3, Python, etc.
 
 [![Adityarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaruplaha&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
