@@ -8,7 +8,7 @@ Starting Fall 2026, I will be joining the National University of Singapore to pu
 
 My primary focus lies in building scalable computational tools for high-dimensional genomic and transcriptomic data analysis, with specific applications in modeling complex diseases and developmental disorders.
 
-*   **`scAICME`**: As part of my master's thesis, I developed this open-source Python package for the semi-supervised annotation of single-cell RNA sequencing data. Built on the `scverse` ecosystem, it avoids the common pitfalls of standard pipelines by robustly identifying expression patterns for canonical marker sets. A manuscript detailing the underlying mathematical models is currently in preparation for submission to *Nature Communications*.
+*   **[scAICME](https://github.com/adityaruplaha/scAICME)**: As part of my master's thesis, I developed this open-source Python package for the semi-supervised annotation of single-cell RNA sequencing data. Built on the `scverse` ecosystem, it avoids the common pitfalls of standard pipelines by robustly identifying expression patterns for canonical marker sets. A manuscript detailing the underlying mathematical models is currently in preparation for submission to *Nature Communications*.
 
 ## 💻 Open Source Contributions
 
