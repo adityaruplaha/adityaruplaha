@@ -1,12 +1,12 @@
 # Hi there, I'm Adityarup 👋
 
-I am a computational statistician and bioinformatics researcher, currently wrapping up my Master of Statistics at the Indian Statistical Institute, Kolkata, where I also completed my Bachelor of Statistics.
+I am a computational statistician and bioinformatics researcher. I hold a Master of Statistics (2026) from the Indian Statistical Institute, Kolkata, where I specialized in Biostatistics and also completed my Bachelor of Statistics (2024).
 
-Starting Fall 2026, I will be joining the National University of Singapore to pursue a PhD in Statistics and Data Science, supported by the Industrial-Relevant PhD Fellowship. I expect to continue my work in transcriptomics, as part of the [Göke Lab](https://jglab.org/), under the supervision of Dr. Joanathan Göke and Dr. Alexandre Thiéry.
+I am a PhD student in Statistics and Data Science at the National University of Singapore, supported by the Industrial-Relevant PhD Fellowship, under the supervision of Dr. Jonathan Göke and Dr. Alexandre Thiéry. My research attachment is with the [Göke Lab](https://jglab.org/) at the [A*STAR Genome Institute of Singapore](https://www.gis.a-star.edu.sg/).
 
 ## 🔬 Research & Projects
 
-My primary focus lies in building scalable computational tools for high-dimensional genomic and transcriptomic data analysis, with specific applications in modeling complex diseases and developmental disorders.
+My research focus is long-read transcriptomics, together with DNA and RNA language models. My earlier work is in single-cell transcriptomics, building scalable computational tools for the analysis of high-dimensional genomic data.
 
 *   **[scAICME](https://github.com/adityaruplaha/scAICME)**: As part of my master's thesis, I developed this open-source Python package for the semi-supervised annotation of single-cell RNA sequencing data. Built on the `scverse` ecosystem, it avoids the common pitfalls of standard pipelines by robustly identifying expression patterns for canonical marker sets. A manuscript detailing the underlying mathematical models is currently in preparation for submission to *Nature Communications*.
 
@@ -26,4 +26,4 @@ I actively contribute to the broader open-source software ecosystem, working acr
 *   **Web Development**: React, Svelte, GitHub Pages
 *   **Infrastructure & Tools**: Git, Docker, Linux, CMake, GitHub Actions, Cloudflare Workers
 
-Feel free to reach out via [email](me@adityaruplaha.me) for collaborations or discussions around computational biology, statistical genomics, or open-source software development.
+Feel free to reach out via [email](mailto:me@adityaruplaha.me) for collaborations or discussions around computational biology, statistical genomics, or open-source software development.
