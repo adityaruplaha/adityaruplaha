@@ -2,27 +2,29 @@
 
 I am a computational statistician and bioinformatics researcher. I hold a Master of Statistics (2026) from the Indian Statistical Institute, Kolkata, where I specialized in Biostatistics and also completed my Bachelor of Statistics (2024).
 
-I am a PhD student in Statistics and Data Science at the National University of Singapore, supported by the Industrial-Relevant PhD Fellowship, under the supervision of Dr. Jonathan Göke and Dr. Alexandre Thiéry. My research attachment is with the [Göke Lab](https://jglab.org/) at the [A*STAR Genome Institute of Singapore](https://www.gis.a-star.edu.sg/).
+I am a PhD student in Statistics and Data Science at the National University of Singapore, supported by the [NUS Industry-Relevant PhD Scholarship (NUS-IRP)](https://nusgs.nus.edu.sg/scholarships/nus-industry-relevant-phd-scholarship-nus-irp), under the supervision of Dr. Jonathan Göke and Dr. Alexandre Thiéry. My research attachment is with the [Göke Lab](https://jglab.org/) at the [A*STAR Genome Institute of Singapore (A*STAR GIS)](https://www.a-star.edu.sg/gis).
 
 ## 🔬 Research & Projects
 
-My research focus is long-read transcriptomics, together with DNA and RNA language models. My earlier work is in single-cell transcriptomics, building scalable computational tools for the analysis of high-dimensional genomic data.
+My research focus is long-read transcriptomics. My earlier work is in single-cell transcriptomics, building scalable computational tools for the analysis of high-dimensional genomic data.
 
-*   **[scAICME](https://github.com/adityaruplaha/scAICME)**: As part of my master's thesis, I developed this open-source Python package for the semi-supervised annotation of single-cell RNA sequencing data. Built on the `scverse` ecosystem, it avoids the common pitfalls of standard pipelines by robustly identifying expression patterns for canonical marker sets. A manuscript detailing the underlying mathematical models is currently in preparation for submission to *Nature Communications*.
+*   **[scAICME](https://github.com/adityaruplaha/scAICME)**: As part of my master's thesis, I developed this open-source Python package for the semi-supervised annotation of single-cell RNA sequencing data. Built on the `scverse` ecosystem, it avoids the common pitfalls of standard pipelines by robustly identifying expression patterns for canonical marker sets. A manuscript detailing the underlying mathematical models, *scAICME: Adaptive Marker-Guided Annotation of Single-Cell RNA-seq with Applications to Spatial Transcriptomics*, is currently in preparation.
 
 ## 💻 Open Source Contributions
 
 I actively contribute to the broader open-source software ecosystem, working across different languages and deployment environments.
 
 *   **PLINK Packager**: I maintain the PLINK genetics analysis software package for the Arch Linux distribution via the AUR and [BioArchLinux](https://bioarchlinux.org/).
-*   **Zotero**: Contributed quality of life improvements and attachment system enhancements for the Android application to streamline mobile research workflows.
+*   **Bioconductor**: Reported and fixed a bug in S4Vectors where `compar4_stable()` ignored its fourth key, so quad matching silently dropped elements that shared the first three ([#145](https://github.com/Bioconductor/S4Vectors/pull/145)).
+*   **Zotero**: Contributed quality of life improvements to the Android application for self-hosted setups, such as trusting user-installed certificate authorities in release builds ([#204](https://github.com/zotero/zotero-android/pull/204)).
+*   **Stirling-PDF**: Fixed the multi-tool advert ignoring `SYSTEM_ROOTURIPATH` in sub-path deployments, and zero-padded numeric suffixes on archived split files so that they sort correctly ([#3776](https://github.com/Stirling-Tools/Stirling-PDF/pull/3776), [#4265](https://github.com/Stirling-Tools/Stirling-PDF/pull/4265)).
 *   **Heroic Games Launcher**: Delivered continuous integration improvements, codebase refactoring, and UI/UX features using React and Node.js.
 
 ## 🛠️ Tech Stack
 
 *   **Languages**: Python, R, C/C++ with CUDA, Kotlin, etc.
 *   **Data & ML**: tidyverse, pandas, polars, scikit-learn, statsmodels, PyTorch, PyMC, Stan, matplotlib, seaborn
-*   **Bioinformatics**: PLINK, scverse ecosystem
+*   **Bioinformatics**: PLINK, scverse ecosystem, Bioconductor
 *   **Web Development**: React, Svelte, GitHub Pages
 *   **Infrastructure & Tools**: Git, Docker, Linux, CMake, GitHub Actions, Cloudflare Workers
 
