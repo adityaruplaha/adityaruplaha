@@ -15,7 +15,8 @@ My research focus is long-read transcriptomics. My earlier work is in single-cel
 I actively contribute to the broader open-source software ecosystem, working across different languages and deployment environments.
 
 *   **PLINK Packager**: I maintain the PLINK genetics analysis software package for the Arch Linux distribution via the AUR and [BioArchLinux](https://bioarchlinux.org/).
-*   **Bioconductor**: Reported and fixed a bug in S4Vectors where `compar4_stable()` ignored its fourth key, so quad matching silently dropped elements that shared the first three ([#145](https://github.com/Bioconductor/S4Vectors/pull/145)).
+*   **Bioconductor**: Contributing to core infrastructure packages, such as [S4Vectors](https://github.com/Bioconductor/S4Vectors), and to [biocthis](https://github.com/lcolladotor/biocthis), which automates package setup for Bioconductor.
+*   **r-lib**: Contributing to [styler](https://github.com/r-lib/styler) and [lintr](https://github.com/r-lib/lintr), the R code formatter and linter.
 *   **Zotero**: Contributed quality of life improvements to the Android application for self-hosted setups, such as trusting user-installed certificate authorities in release builds ([#204](https://github.com/zotero/zotero-android/pull/204)).
 *   **Stirling-PDF**: Fixed the multi-tool advert ignoring `SYSTEM_ROOTURIPATH` in sub-path deployments, and zero-padded numeric suffixes on archived split files so that they sort correctly ([#3776](https://github.com/Stirling-Tools/Stirling-PDF/pull/3776), [#4265](https://github.com/Stirling-Tools/Stirling-PDF/pull/4265)).
 *   **Heroic Games Launcher**: Delivered continuous integration improvements, codebase refactoring, and UI/UX features using React and Node.js.
