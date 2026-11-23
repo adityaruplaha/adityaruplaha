@@ -2,7 +2,7 @@
 
 I am a computational statistician and bioinformatics researcher. I hold a Master of Statistics (2026) from the Indian Statistical Institute, Kolkata, where I specialized in Biostatistics and also completed my Bachelor of Statistics (2024).
 
-I am a PhD student in Statistics and Data Science at the National University of Singapore, supported by the [NUS Industry-Relevant PhD Scholarship (NUS-IRP)](https://nusgs.nus.edu.sg/scholarships/nus-industry-relevant-phd-scholarship-nus-irp), under the supervision of Dr. Jonathan Göke and Dr. Alexandre Thiéry. My research attachment is with the [Göke Lab](https://jglab.org/) at the [A*STAR Genome Institute of Singapore (A*STAR GIS)](https://www.a-star.edu.sg/gis).
+I am a PhD student in Statistics and Data Science at the National University of Singapore, supported by the [NUS Industry-Relevant PhD Scholarship (NUS-IRP)](https://nusgs.nus.edu.sg/scholarships/nus-industry-relevant-phd-scholarship-nus-irp), under the supervision of Dr. Jonathan Göke and Dr. Alexandre Thiéry. My research attachment is with the [Göke Lab](https://jglab.org/) at the [A\*STAR Genome Institute of Singapore (A\*STAR GIS)](https://www.a-star.edu.sg/gis).
 
 ## 🔬 Research & Projects
 
